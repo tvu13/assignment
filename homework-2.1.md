@@ -26,3 +26,10 @@ my_github_user/my_repository/path/to/file.php:42
     // Function: do_something_amazing()
 ```
 
+al_the_x/some_awesome_project/path/to/some/file.php:42
+```php
+ if ( PHP == 'awesome' ) {
+ // Constant: PHP
+ // Comparison: ==
+ // String: 'awesome'
+```
