@@ -5,7 +5,7 @@
  * the command line, because that's what Atlas can give me... C'mon, Atlas!
  */
 
-function usage()
+function usage ( )
 {
     echo '
     Provide a CSV file that contains at least "First Name" and "Last Name"
