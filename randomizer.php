@@ -37,6 +37,7 @@ echo 'Randomly selected pairs:';
 
 while ( $one = current($names) and $two = next($names) )
 {
+    echo "\n======\n";
     echo "\n\n\t* $one\n\t* $two";
     next($names);
 }
