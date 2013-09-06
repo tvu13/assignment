@@ -1,0 +1,6 @@
+How to send file to your resporitory
+
+git add .
+git commit -m "homewor"
+git status
+git push origin master
