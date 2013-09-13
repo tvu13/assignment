@@ -1,10 +1,21 @@
 How to send file to your resporitory
 
+
+git add . 
+git commit -m "homewor" 
+git status
+git push origin master
+
+
 git add . //get all the files
 git commit -m "homewor" //specific name
 git status
-git fetch
 git push origin master
+
+How to merge in cloud 9:
+git remote add upstream \ website
+git fetch upstream
+git merge upstream/master
 
 literals:
 boolean
