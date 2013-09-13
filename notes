@@ -1,8 +1,9 @@
 How to send file to your resporitory
 
-git add .
-git commit -m "homewor"
+git add . //get all the files
+git commit -m "homewor" //specific name
 git status
+git fetch
 git push origin master
 
 literals:
@@ -14,3 +15,13 @@ arithmetic -$newvalue = $oldvalue + 1;
 
 strin operators:
 var_dump('foo'.'bar')
+
+Basic git Commands
+
+git branch - what branches are there & which am I on?
+git status - what files have I changed or created?
+git add(files) - consider this stuff for remembering
+git commit(files) - I really want you to remmeber what I have considered via git add
+git push[remote[branch]] - tell the robot named
+"remote"(default is "origin") about my changes in "branch"(default is  "master")
+git fetch[remote] -ask the robot named "remote" for change
