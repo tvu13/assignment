@@ -4,3 +4,13 @@ git add .
 git commit -m "homewor"
 git status
 git push origin master
+
+literals:
+boolean
+array
+
+operators:
+arithmetic -$newvalue = $oldvalue + 1;
+
+strin operators:
+var_dump('foo'.'bar')

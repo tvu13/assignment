@@ -1,0 +1,2 @@
+{"ts":1379077650027,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"How to send file to your resporitory\n\ngit add .\ngit commit -m \"homewor\"\ngit status\ngit push origin master"]],"start1":0,"start2":0,"length1":0,"length2":105}]],"length":105}
+{"contributors":[],"silentsave":false,"ts":1379077720669,"patch":[[{"diffs":[[0,"n master"],[1,"\n\nliterals:\nboolean\narray\n\noperators:\narithmetic -$newvalue = $oldvalue + 1;\n\nstrin operators:\nvar_dump('foo'.'bar')"]],"start1":97,"start2":97,"length1":8,"length2":124}]],"length":221,"saved":false}
