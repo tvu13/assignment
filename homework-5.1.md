@@ -15,3 +15,17 @@
 * **Bonus points**: open a pull request back to the original repo with your work to date.
 
 [wordpress]:https://github.com/Wordpress/Wordpress/
+
+//This file has the following configurations: MySQL settings, Table Prefix.
+// ** MySQL settings - You can get this info from your web host ** //
+/** The name of the database for WordPress */
+define('DB_NAME', 'database_name_here');
+
+/** MySQL database username */
+define('DB_USER', 'username_here');
+
+/** MySQL database password */
+define('DB_PASSWORD', 'password_here');
+
+/** MySQL hostname */
+define('DB_HOST', 'localhost');
