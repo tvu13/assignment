@@ -36,3 +36,7 @@ git commit(files) - I really want you to remmeber what I have considered via git
 git push[remote[branch]] - tell the robot named
 "remote"(default is "origin") about my changes in "branch"(default is  "master")
 git fetch[remote] -ask the robot named "remote" for change
+
+list is always order, can usually return elements or item by numberic index.
+
+array in php you can modifiy and merge it with another array.
