@@ -43,6 +43,16 @@ stop executing statement(break;)
 operators:
 arithmetic -$newvalue = $oldvalue + 1;
 
+Procedural Programming:
+
+Function:
+
+Modual Programming:
+
+Abstraction
+Encapsulation
+Scoping
+
 strin operators:
 var_dump('foo'.'bar')
 
