@@ -32,6 +32,12 @@ Expressions:
 1+1 ==2
 $a
 
+control flow statement:
+control flow -refers to the order in which the individual statements, instructions or function calls of
+an imperative or declarative program are executed or evaluated.
+
+Type of Control Flow statements:
+continuation at a different statement(uncondtional branch or jump)
 operators:
 arithmetic -$newvalue = $oldvalue + 1;
 
@@ -53,3 +59,4 @@ list is always order, can usually return elements or item by numberic index.
 www.slidehare.net/vic-
 
 array in php you can modifiy and merge it with another array.
+
