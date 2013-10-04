@@ -43,11 +43,13 @@ stop executing statement(break;)
 operators:
 arithmetic -$newvalue = $oldvalue + 1;
 
-Procedural Programming:
+2 Programming Type: 
 
-Function:
+Procedural Programming
 
-Modual Programming:
+Function
+
+Modual Programming
 
 Abstraction
 Encapsulation
@@ -72,3 +74,10 @@ www.slidehare.net/vc-dig1108-fall-2013
 
 array in php you can modifiy and merge it with another array.
 
+Difference between return and echo is return is returning a value
+
+invoking does'nt any paramter
+
+how to know if it is an array:
+$sales->add
+the add indicate it is an array

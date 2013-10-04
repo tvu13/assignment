@@ -15,3 +15,5 @@ foreach ( $collection as $item ) {
 
 * Save your file locally, git add and git commit it (don't forget: -m 'explain why!'), and git push your changes to your Github account.
 * **Bonus points:** open a pull request back to the original repo.
+* 
+
