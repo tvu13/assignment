@@ -1,6 +1,5 @@
 How to send file to your resporitory
 
-
 git add . 
 git commit -m "homewor" 
 git status
@@ -20,6 +19,18 @@ git merge upstream/master
 literals:
 boolean
 array
+floating points
+diff type of numbers
+string
+object
+
+variables:
+$anything
+$any['array']
+
+Expressions:
+1+1 ==2
+$a
 
 operators:
 arithmetic -$newvalue = $oldvalue + 1;
@@ -38,5 +49,7 @@ git push[remote[branch]] - tell the robot named
 git fetch[remote] -ask the robot named "remote" for change
 
 list is always order, can usually return elements or item by numberic index.
+
+www.slidehare.net/vic-
 
 array in php you can modifiy and merge it with another array.
