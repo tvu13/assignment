@@ -38,6 +38,8 @@ an imperative or declarative program are executed or evaluated.
 
 Type of Control Flow statements:
 continuation at a different statement(uncondtional branch or jump)
+stop executing statement(break;)
+
 operators:
 arithmetic -$newvalue = $oldvalue + 1;
 
@@ -56,7 +58,7 @@ git fetch[remote] -ask the robot named "remote" for change
 
 list is always order, can usually return elements or item by numberic index.
 
-www.slidehare.net/vic-
+www.slidehare.net/vc-dig1108-fall-2013
 
 array in php you can modifiy and merge it with another array.
 
