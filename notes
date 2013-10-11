@@ -80,4 +80,4 @@ invoking does'nt any paramter
 
 how to know if it is an array:
 $sales->add
-the add indicate it is an array
+the "add" and "->" indicate it is an array
